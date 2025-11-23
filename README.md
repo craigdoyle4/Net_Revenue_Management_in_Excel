@@ -7,7 +7,7 @@ This project simulates the role of a **Category Manager** and **NRM Analyst** at
 
 ## 🔗 Access the Dataset  
 ➡️ **Excel File (Project Workbook):**  
-[Click here to open the file](https://escdijoneu-my.sharepoint.com/:x:/g/personal/craig_doyle_bsb-education_com/EZmyWMW8ZYtPm4BbmKnuVNIBXL-62Z8vRsLKB49EDRnskg?e=Zx2tGk)
+[Click here to open the file](https://escdijoneu-my.sharepoint.com/:x:/g/personal/craig_doyle_bsb-education_com/EZmyWMW8ZYtPm4BbmKnuVNIBXL-62Z8vRsLKB49EDRnskg?e=cynoCR)
 
 ---
 
@@ -127,6 +127,6 @@ It demonstrates strong analytical skills, commercial understanding, and the abil
 ## 📁 Files
 
 📄 **Excel Workbook (Main Project File):**  
-[Open the file here](https://escdijoneu-my.sharepoint.com/:x:/g/personal/craig_doyle_bsb-education_com/EZmyWMW8ZYtPm4BbmKnuVNIBXL-62Z8vRsLKB49EDRnskg?e=Zx2tGk)
+[Open the file here](https://escdijoneu-my.sharepoint.com/:x:/g/personal/craig_doyle_bsb-education_com/EZmyWMW8ZYtPm4BbmKnuVNIBXL-62Z8vRsLKB49EDRnskg?e=cynoCR)
 
 
